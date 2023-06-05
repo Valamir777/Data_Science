@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-    <title>
-        Jupyter NoteBook
-    </title>
     <head>
         <header style="font-size: x-large;">
             Jupyter Projects NoteBook
