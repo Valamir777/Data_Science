@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <header style="font-size: x-large;">
-            Jupyter Projects NoteBook
+            Jupyter Projects NoteBook <br>
         </header>
     </head>
     <body>
